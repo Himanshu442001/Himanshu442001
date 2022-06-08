@@ -48,7 +48,7 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Himanshu442001&theme=dark&background=0d1117&date_format=M%20j%5B%2C%20Y%5D" alt="adam-pw" /></p>
       
 
-All Rights Reserved [Hiamnshu Agarawal](https://github.com/Himanshu442001)
+All Rights Reserved [Himanshu Agarawal](https://github.com/Himanshu442001)
 
 <!---
 Himanshu442001/Himanshu442001 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
