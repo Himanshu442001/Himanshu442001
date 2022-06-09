@@ -12,7 +12,7 @@
 
 
 
-- 💻 I’m currently learning Web Development , Blockcahain Development and other programming skills
+- 💻 I’m currently learning Web Development , Blockchain Development Web 3.0 and other programming skills
 
 - 🔍 How to reach me **Himanshuagarwal656@gmail.com**
 
