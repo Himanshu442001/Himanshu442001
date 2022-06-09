@@ -9,7 +9,7 @@
 
 <br>
 
-<p><img align="right" src="https://i.pinimg.com/originals/02/74/20/0274207612d515f49012c87803a9e631.gif" alt = "Himanshu Agarwal"/ width ="400" height = "350"></p>
+
 
 
 - 💻 I’m currently learning Web Development , Blockcahain Development and other programming skills
