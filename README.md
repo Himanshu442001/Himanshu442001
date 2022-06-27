@@ -42,7 +42,7 @@
 All Rights Reserved [Himanshu Agarawal](https://github.com/Himanshu442001)
 <br>
 <br>
-[Last Edited:27/06/2022]
+Last Edited:27/06/2022
 
 <!---
 Himanshu442001/Himanshu442001 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
