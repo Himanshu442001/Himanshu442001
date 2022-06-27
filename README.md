@@ -16,7 +16,7 @@
 
 - 🔍 How to reach me **Himanshuagarwal656@gmail.com**
 
-- ⚡ Fun fact :- Single Web Developer is more Dangerous😂
+- ⚡ Fun fact :- A Developer Boy and a Tester Girl can never be Friends.. ❤️😍🤣
 <br>
 
 <h3 align="left">Connect with me:</h3>
@@ -40,6 +40,7 @@
       
 
 All Rights Reserved [Himanshu Agarawal](https://github.com/Himanshu442001)
+<br>
 Last Edited:23/06/2022
 
 <!---
